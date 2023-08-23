@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+.container
+{
+	background-color:rgb(211,211,211);
+	width:600px;
+	height:300px;
+	border-radius:30px;
+	margin:auto;
+	border:3px solid black;
+}
+#col-1
+{
+	margin-left:50px;
+	margin-right:25px;
+	margin-top:75px;
+	display:inline-block;
+	border-radius:50%;
+	width:150px;
+	height:150px;
+	background-color:rgb(1,127,1);
+}
+#col-2
+{
+	margin-right:25px;
+	margin-top:75px;
+	display:inline-block;
+	border-radius:50%;
+	width:150px;
+	height:150px;
+	background-color:rgb(255,255,3);
+}
+#col-3
+{
+	margin-top:75px;
+	display:inline-block;
+	border-radius:50%;
+	width:150px;
+	height:150px;
+	background-color:rgb(255,0,0);
+}
